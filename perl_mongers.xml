@@ -8040,7 +8040,7 @@ perl_mongers PUBLIC "-//Perl Mongers//DTD for Perl user groups//EN"
       <country>Philippines</country>
       <continent>Asia</continent>
       <longitude></longitude>
-      <latitude></latitude>
+      <latitude></ldeadatitude>
     </location>
     <email type="group"></email>
     <tsar>
@@ -18930,7 +18930,7 @@ perl_mongers PUBLIC "-//Perl Mongers//DTD for Perl user groups//EN"
         <domain>evozon.com</domain>
       </email>
     </tsar>
-    <web>http://cluj.pm.org/</web>
+    <web>http://www.cluj.pm/</web>
     <date type="inception">20120302</date>
   </group>
   <group id="766" status="active">
